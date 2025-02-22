@@ -84,7 +84,7 @@ evict, shun, or in some cases, voluntarily depart the cluster when deemed necess
 As members join and leave the cluster, other Coherence services are notified,
 thus enabling those services to react accordingly.
 
-> Note: This part of the Coherence product has been in production for more that 10 years,
+> Note: This part of the Coherence product has been in production for more than 10 years,
 >       being the subject of some extensive and imaginative testing. While this feature has
 >       been discussed here, it certainly is not something that customers, generally,
 >       interact with directly, but is important to be aware of.
